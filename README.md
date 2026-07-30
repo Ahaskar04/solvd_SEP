@@ -114,12 +114,8 @@ Validating which of these has stronger willingness to pay and long-term revenue 
 
 As required by SEP, a progress video or slide update is uploaded at least once every 2 months.
 
-| Update Period  | Focus                                                        | YouTube Link    | Status                  |
-| -------------- | ------------------------------------------------------------ | --------------- | ----------------------- |
-| March 2026     | SEP kickoff: project overview, objectives, team              | _[insert link]_ | _[Completed / Pending]_ |
-| May 2026       | Development progress: agent pipeline and SolvdEngine         | _[insert link]_ | _[Completed / Pending]_ |
-| July 2026      | Pilot progress, handwriting correction, distribution testing | _[insert link]_ | Pending                 |
-| September 2026 | MVP progress and early usage data                            | _[insert link]_ | Upcoming                |
+| Update Period | Focus | YouTube Link |
+| September 2026 | MVP progress and early usage data | _[insert link]_ |
 
 ### Supporting Materials
 
