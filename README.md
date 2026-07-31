@@ -115,13 +115,14 @@ Validating which of these has stronger willingness to pay and long-term revenue 
 As required by SEP, a progress video or slide update is uploaded at least once every 2 months.
 
 | Update Period | Focus | YouTube Link |
-| September 2026 | MVP progress and early usage data | _[insert link]_ |
+|---|---|---|
+| September 2026 | MVP progress and early usage data | [Watch](https://youtu.be/0tBllBMRH6Y) |
 
 ### Supporting Materials
 
 | Material          | Link            |
 | ----------------- | --------------- |
-| SEP update slides | _[insert link]_ |
+| SEP update slides | https://drive.google.com/file/d/1OyVrHxzNO49oOwpQhuV1LBep8ZYM2PKO/view?usp=sharing |
 | SolvdEngine (npm) | `@ahaskar04`    |
 
 ---
