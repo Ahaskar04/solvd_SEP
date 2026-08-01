@@ -116,7 +116,7 @@ As required by SEP, a progress video or slide update is uploaded at least once e
 
 | Update Period | Focus | YouTube Link |
 |---|---|---|
-| September 2026 | MVP progress and early usage data | [Watch](https://youtu.be/0tBllBMRH6Y) |
+| September 2026 | MVP progress and early usage data | [Watch](https://youtu.be/CdNlbx0lM0o) |
 
 ### Supporting Materials
 
